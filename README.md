@@ -75,8 +75,7 @@ intereses: ["Mobile Dev", "Cloud", "IA aplicada", "ERP Systems"]
 
 <br><br>
 
-<!-- Activity Graph - ultimo mes -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=rmm-01&theme=github-compact&hide_border=true&bg_color=0d1117&color=58A6FF&line=58A6FF&point=FF6E40&area=true&area_color=58A6FF&days=30" alt="Activity Graph - Last 30 days" width="95%"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rmm-01&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58A6FF&text_color=c9d1d9" alt="Top Langs"/>
 
 </div>
 
