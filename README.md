@@ -70,12 +70,6 @@ intereses: ["Mobile Dev", "Cloud", "IA aplicada", "ERP Systems"]
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=rmm-01&show_icons=true&include_all_commits=false&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9&ring_color=58A6FF" alt="GitHub Stats"/>
-&nbsp;&nbsp;
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rmm-01&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58A6FF&text_color=c9d1d9" alt="Top Langs"/>
-
-<br><br>
-
 <!-- Streak Stats -->
 <img src="https://github-readme-streak-stats.herokuapp.com?user=rmm-01&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=58A6FF&ring=58A6FF&fire=FF6E40&currStreakLabel=58A6FF" alt="GitHub Streak"/>
 
