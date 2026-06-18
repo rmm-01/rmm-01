@@ -20,7 +20,7 @@ location: "Lima, Peru"
 current_role: "Asistente de Sistemas | Software Developer @ ARMATTURA S.A.C."
 education: "Ingenieria de Sistemas Computacionales - UPN"
 languages: ["Espanol (Native)", "English (Professional)"]
-interests: ["Mobile Dev", "Cloud", "Applied AI", "ERP Systems"]
+knowledge_in: ["Mobile Dev", "Cloud", "Applied AI", "ERP Systems", "Networking"]
 ```
 
 ---
