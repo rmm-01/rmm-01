@@ -15,12 +15,12 @@
 ### &lt;/&gt; About Me
 
 ```yaml
-nombre: Ricardo Rafael Mendoza Marcacuzco
-location: "Lima, Peru"
+nombre: Ricardo Mendoza
+location: "Peru"
 current_role: "Asistente de Sistemas | Software Developer @ ARMATTURA S.A.C."
 education: "Ingenieria de Sistemas Computacionales - UPN"
 languages: ["Espanol (Native)", "English (Professional)"]
-knowledge_in: ["Mobile Dev", "Cloud", "Applied AI", "ERP Systems", "Networking"]
+knowledge_in: ["Mobile Dev", "Cloud", "Applied AI", "ERP Systems", "Networking Fundamentals"]
 ```
 
 ---
