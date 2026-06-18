@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&repeat=true&width=600&height=45&lines=Software+Developer+%F0%9F%92%BB;Mobile+%7C+Cloud+%7C+ERP;From+Peru+to+the+world+%F0%9F%8C%8E" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&repeat=true&width=600&height=45&lines=Software+Developer+%F0%9F%92%BB;Mobile+%7C+Cloud+%7C+ERP;Exploring+new+challenges+%E2%9C%A8" alt="Typing SVG" /></a>
 
 <br>
 
@@ -12,7 +12,7 @@
 
 ---
 
-### :man_technologist: About Me
+### &lt;/&gt; About Me
 
 ```yaml
 nombre: Ricardo Rafael Mendoza Marcacuzco
@@ -25,7 +25,7 @@ interests: ["Mobile Dev", "Cloud", "Applied AI", "ERP Systems"]
 
 ---
 
-### :chart_with_upwards_trend: Stats & Activity
+### ~ Stats & Activity
 
 <div align="center">
 
@@ -39,7 +39,7 @@ interests: ["Mobile Dev", "Cloud", "Applied AI", "ERP Systems"]
 
 ---
 
-### :snake: Contributions
+### $ Contributions
 
 <div align="center">
 
@@ -53,7 +53,7 @@ interests: ["Mobile Dev", "Cloud", "Applied AI", "ERP Systems"]
 
 ---
 
-### :hammer_and_wrench: Tech Stack
+### { } Tech Stack
 
 <div align="center">
 
@@ -81,7 +81,7 @@ interests: ["Mobile Dev", "Cloud", "Applied AI", "ERP Systems"]
 
 ---
 
-### :scroll: Certificaciones
+### &#9654; Certificaciones
 
 <div align="center">
 
@@ -97,7 +97,7 @@ interests: ["Mobile Dev", "Cloud", "Applied AI", "ERP Systems"]
 
 <div align="center">
 
-### :incoming_envelope: Let's Connect
+### >> Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ricardomendoza-marcacuzco)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ricardor.mendozam@gmail.com)
