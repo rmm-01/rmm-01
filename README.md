@@ -24,6 +24,35 @@ intereses: ["Mobile Dev", "Cloud", "IA aplicada", "ERP Systems"]
 
 ---
 
+### :bar_chart: GitHub Stats
+
+<div align="center">
+
+<!-- Streak Stats -->
+<img src="https://github-readme-streak-stats.herokuapp.com?user=rmm-01&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=58A6FF&ring=58A6FF&fire=FF6E40&currStreakLabel=58A6FF" alt="GitHub Streak"/>
+
+<br><br>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rmm-01&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58A6FF&text_color=c9d1d9" alt="Top Langs"/>
+
+</div>
+
+---
+
+### :snake: Contribuciones
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rmm-01/rmm-01/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rmm-01/rmm-01/output/github-snake.svg" />
+  <img alt="snake animation" src="https://raw.githubusercontent.com/rmm-01/rmm-01/output/github-snake-dark.svg" />
+</picture>
+
+</div>
+
+---
+
 ### :hammer_and_wrench: Tech Stack
 
 <div align="center">
@@ -61,35 +90,6 @@ intereses: ["Mobile Dev", "Cloud", "IA aplicada", "ERP Systems"]
 ![Azure AI](https://img.shields.io/badge/Azure%20AI%20Essentials-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
 ![Python](https://img.shields.io/badge/PCAP%3A%20Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Claude](https://img.shields.io/badge/Claude%20%2B%20Anthropic%20API-D97757?style=flat-square&logo=anthropic&logoColor=white)
-
-</div>
-
----
-
-### :bar_chart: GitHub Stats
-
-<div align="center">
-
-<!-- Streak Stats -->
-<img src="https://github-readme-streak-stats.herokuapp.com?user=rmm-01&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=58A6FF&ring=58A6FF&fire=FF6E40&currStreakLabel=58A6FF" alt="GitHub Streak"/>
-
-<br><br>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rmm-01&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58A6FF&text_color=c9d1d9" alt="Top Langs"/>
-
-</div>
-
----
-
-### :snake: Contribuciones
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rmm-01/rmm-01/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rmm-01/rmm-01/output/github-snake.svg" />
-  <img alt="snake animation" src="https://raw.githubusercontent.com/rmm-01/rmm-01/output/github-snake-dark.svg" />
-</picture>
 
 </div>
 
