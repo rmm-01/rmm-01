@@ -1,8 +1,8 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:A78BFA,100:22D3EE&height=180&section=header&text=Ricardo%20Mendoza&fontSize=36&fontColor=FFFFFF&fontAlignY=35&desc=Systems%20Engineering%20%7C%20Software%20Developer&descSize=16&descAlignY=55&descColor=E2E8F0" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:A78BFA,100:22D3EE&height=180&section=header&text=Ricardo%20Mendoza&fontSize=36&fontColor=FFFFFF&fontAlignY=35&desc=Systems%20Engineering%20%7C%20Junior%20Software%20Developer&descSize=16&descAlignY=55&descColor=E2E8F0" width="100%"/>
 
 <div align="center">
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&repeat=true&width=600&height=45&lines=Junior+Software+Developer+%F0%9F%92%BB;Mobile+%7C+Cloud+%7C+ERP;Exploring+new+challenges" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&repeat=true&width=600&height=45&lines=Junior+Software+Developer;Mobile+%7C+Cloud+%7C+ERP;Exploring+new+challenges" alt="Typing SVG" /></a>
 
 <br>
 
