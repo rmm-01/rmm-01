@@ -32,12 +32,8 @@ knowledge_in: ["Mobile Dev", "Cloud", "Applied AI", "ERP Systems", "Networking F
 <img src="https://raw.githubusercontent.com/rmm-01/rmm-01/main/github-metrics-base.svg" alt="GitHub Stats"/>
 
 <img src="https://raw.githubusercontent.com/rmm-01/rmm-01/main/github-metrics-languages.svg" alt="Most Used Languages"/>
-&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/rmm-01/rmm-01/main/github-metrics-habits.svg" alt="Coding Habits"/>
 
 <img src="https://raw.githubusercontent.com/rmm-01/rmm-01/main/github-metrics-isocalendar.svg" alt="Isometric Contributions"/>
-
-<img src="https://raw.githubusercontent.com/rmm-01/rmm-01/main/github-metrics-activity.svg" alt="Recent Activity"/>
 
 </div>
 
