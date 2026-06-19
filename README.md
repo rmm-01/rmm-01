@@ -29,10 +29,8 @@ knowledge_in: ["Mobile Dev", "Cloud", "Applied AI", "ERP Systems", "Networking F
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=rmm-01&theme=react&hide_border=true&background=0d1117&stroke=A78BFA&ring=A78BFA&fire=F472B6&currStreakLabel=22D3EE&sideLabels=22D3EE&currStreakNum=E2E8F0&sideNums=E2E8F0&dates=8B949E" alt="GitHub Streak"/>
-
-<br><br>
-
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=rmm-01&show_icons=true&theme=react&hide_border=true&bg_color=0d1117&title_color=A78BFA&icon_color=22D3EE&text_color=E2E8F0" alt="GitHub Stats"/>
+&nbsp;&nbsp;
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rmm-01&layout=compact&theme=react&hide_border=true&bg_color=0d1117&title_color=A78BFA&text_color=E2E8F0" alt="Most Used Languages"/>
 
 </div>
