@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:A78BFA,100:22D3EE&height=180&section=header&text=Ricardo%20Mendoza&fontSize=36&fontColor=FFFFFF&fontAlignY=35&desc=Systems%20Engineering%20%7C%20Junior%20Software%20Developer&descSize=16&descAlignY=55&descColor=E2E8F0&animation=twinkling" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:A78BFA,100:22D3EE&height=180&section=header&text=Ricardo%20Mendoza&fontSize=36&fontColor=FFFFFF&fontAlignY=35&desc=Systems%20Engineering%20%7C%20Junior%20Software%20Developer&descSize=16&descAlignY=55&descColor=E2E8F0" width="100%"/>
 
 <div align="center">
 
@@ -29,9 +29,15 @@ knowledge_in: ["Mobile Dev", "Cloud", "Applied AI", "ERP Systems", "Networking F
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=rmm-01&show_icons=true&theme=react&hide_border=true&bg_color=0d1117&title_color=A78BFA&icon_color=22D3EE&text_color=E2E8F0" alt="GitHub Stats"/>
+<img src="https://raw.githubusercontent.com/rmm-01/rmm-01/main/github-metrics-base.svg" alt="GitHub Stats"/>
+
+<img src="https://raw.githubusercontent.com/rmm-01/rmm-01/main/github-metrics-languages.svg" alt="Most Used Languages"/>
 &nbsp;&nbsp;
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rmm-01&layout=compact&theme=react&hide_border=true&bg_color=0d1117&title_color=A78BFA&text_color=E2E8F0" alt="Most Used Languages"/>
+<img src="https://raw.githubusercontent.com/rmm-01/rmm-01/main/github-metrics-habits.svg" alt="Coding Habits"/>
+
+<img src="https://raw.githubusercontent.com/rmm-01/rmm-01/main/github-metrics-isocalendar.svg" alt="Isometric Contributions"/>
+
+<img src="https://raw.githubusercontent.com/rmm-01/rmm-01/main/github-metrics-activity.svg" alt="Recent Activity"/>
 
 </div>
 
@@ -102,4 +108,4 @@ knowledge_in: ["Mobile Dev", "Cloud", "Applied AI", "ERP Systems", "Networking F
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:22D3EE,100:A78BFA&height=80&section=footer&animation=twinkling" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:22D3EE,100:A78BFA&height=80&section=footer" width="100%"/>
