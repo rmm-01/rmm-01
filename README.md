@@ -91,4 +91,4 @@ knowledge_in: ["Mobile Dev", "Cloud", "Applied AI", "ERP Systems", "Networking F
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:22D3EE,100:A78BFA&height=80&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:22D3EE,100:A78BFA&height=100&section=footer" width="100%"/>
