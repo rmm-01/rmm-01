@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=slice&color=0:A78BFA,100:22D3EE&height=180&section=header&text=Ricardo%20Mendoza&fontSize=36&fontColor=FFFFFF&fontAlignY=35&desc=Systems%20Engineering%20%7C%20Junior%20Software%20Developer&descSize=16&descAlignY=55&descColor=E2E8F0" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:A78BFA,100:22D3EE&height=180&section=header&text=Ricardo%20Mendoza&fontSize=36&fontColor=FFFFFF&fontAlignY=35&desc=Systems%20Engineering%20%7C%20Junior%20Software%20Developer&descSize=16&descAlignY=55&descColor=E2E8F0" width="100%"/>
 
 <div align="center">
 
@@ -91,4 +91,4 @@ knowledge_in: ["Mobile Dev", "Cloud", "Applied AI", "ERP Systems", "Networking F
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=slice&color=0:22D3EE,100:A78BFA&height=80&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:22D3EE,100:A78BFA&height=80&section=footer" width="100%"/>
