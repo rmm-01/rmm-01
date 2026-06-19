@@ -47,9 +47,10 @@ jobs:
           user: rmm-01
           base: ""
           plugin_habits: yes
-          plugin_habits_charts: yes
+          plugin_habits_charts_type: classic
           plugin_habits_days: 14
-          plugin_habits_from: 200
+          plugin_habits_from: 100
+          plugin_habits_languages_limit: 8
           config_animations: yes
 
       - name: Isometric Contributions
@@ -72,6 +73,5 @@ jobs:
           base: ""
           plugin_activity: yes
           plugin_activity_limit: 5
-          plugin_activity_days: 14
-          plugin_activity_filter: all
+          plugin_activity_days: 30
           config_animations: yes
