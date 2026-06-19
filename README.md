@@ -41,19 +41,6 @@ knowledge_in: ["Mobile Dev", "Cloud", "Applied AI", "ERP Systems", "Networking F
 
 </div>
 
----
-
-### $ Contributions
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rmm-01/rmm-01/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rmm-01/rmm-01/output/github-snake.svg" />
-  <img alt="snake animation" src="https://raw.githubusercontent.com/rmm-01/rmm-01/output/github-snake-dark.svg" />
-</picture>
-
-</div>
 
 ---
 
