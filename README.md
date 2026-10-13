@@ -2,11 +2,7 @@
 
 <div align="center">
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&repeat=true&width=600&height=45&lines=Junior+Software+Developer;Mobile+%7C+Cloud+%7C+ERP;Exploring+new+challenges" alt="Typing SVG" /></a>
-
-<br>
-
-<img src="https://komarev.com/ghpvc/?username=rmm-01&style=for-the-badge&color=A78BFA&label=PROFILE+VIEWS" alt="profile views"/>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&repeat=true&width=600&height=45&lines=Junior+Software+Developer;.NET+%7C+Angular+%7C+Azure" alt="Typing SVG" /></a>
 
 </div>
 
@@ -15,13 +11,23 @@
 ### &lt;/&gt; About Me
 
 ```yaml
-nombre: Ricardo Mendoza
-location: "Peru"
+name: Ricardo Mendoza
+location: "Perú"
 current_role: "Asistente de Sistemas | Software Developer @ ARMATTURA S.A.C."
-education: "Ingenieria de Sistemas Computacionales - UPN"
-languages: ["Espanol (Native)", "English (Professional)"]
+education: "Bachiller en Ingeniería de Sistemas Computacionales - UPN"
+languages: ["Spanish (Native)", "English (B2)"]
 knowledge_in: ["Mobile Dev", "Cloud", "Applied AI", "ERP Systems", "Networking Fundamentals"]
 ```
+
+---
+
+### [ ] Projects
+
+| Project | What it does |
+|---|---|
+| [gre-xml-pe](https://github.com/rmm-01/gre-xml-pe) | Builds SUNAT Electronic Dispatch Guide XML (UBL 2.1) with XSD validation and digital signature |
+| [consulta-ruc-pe](https://github.com/rmm-01/consulta-ruc-pe) | RUC/DNI lookup API (.NET 9) with local check-digit validation and caching |
+| [tipo-cambio-pe](https://github.com/rmm-01/tipo-cambio-pe) | Official PEN/USD exchange rate API (.NET 9) from SUNAT with BCRP fallback |
 
 ---
 
@@ -49,11 +55,13 @@ knowledge_in: ["Mobile Dev", "Cloud", "Applied AI", "ERP Systems", "Networking F
 ![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 
 **Frameworks & Platforms**
 
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-34A853?style=for-the-badge&logo=android&logoColor=white)
 
 **Cloud & Tools**
@@ -68,7 +76,7 @@ knowledge_in: ["Mobile Dev", "Cloud", "Applied AI", "ERP Systems", "Networking F
 
 ---
 
-### &#9654; Certificaciones
+### &#9654; Certifications
 
 <div align="center">
 

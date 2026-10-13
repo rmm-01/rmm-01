@@ -13,7 +13,7 @@ jobs:
     steps:
 
       - name: General Stats
-        uses: lowlighter/metrics@latest
+        uses: lowlighter/metrics@v3.34
         with:
           filename: github-metrics-base.svg
           token: ${{ secrets.METRICS_TOKEN }}
@@ -24,7 +24,7 @@ jobs:
           config_animations: yes
 
       - name: Languages
-        uses: lowlighter/metrics@latest
+        uses: lowlighter/metrics@v3.34
         with:
           filename: github-metrics-languages.svg
           token: ${{ secrets.METRICS_TOKEN }}
@@ -40,7 +40,7 @@ jobs:
           config_animations: yes
 
       - name: Isometric Contributions
-        uses: lowlighter/metrics@latest
+        uses: lowlighter/metrics@v3.34
         with:
           filename: github-metrics-isocalendar.svg
           token: ${{ secrets.METRICS_TOKEN }}
