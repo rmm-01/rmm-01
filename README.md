@@ -13,7 +13,7 @@
 ```yaml
 name: Ricardo Mendoza
 location: "Perú"
-current_role: "Asistente de Sistemas | Software Developer @ ARMATTURA S.A.C."
+current_role: "Junior Software Developer/IT Analyst @ DEOCHRYSO S.A.C./ARMATTURA S.A.C."
 education: "Bachiller en Ingeniería de Sistemas Computacionales - UPN"
 languages: ["Spanish (Native)", "English (B2)"]
 knowledge_in: ["Mobile Dev", "Cloud", "Applied AI", "ERP Systems", "Networking Fundamentals"]
